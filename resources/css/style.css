@@ -27,6 +27,10 @@ video, img {
   margin: 0 auto;
 }
 
+video {
+  height: 720px;
+}
+
 /* Sets headers, paragraphs and anchors to center and stops code duplication */
 h1, h2, h3, p, a {
   text-align: center;
